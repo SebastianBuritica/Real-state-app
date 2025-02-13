@@ -139,3 +139,5 @@ For support:
 - Reset project configuration: `npm run reset-project`
 - Keep dependencies updated regularly
 - Check Expo documentation for SDK updates
+
+<img width="410" alt="Image" src="https://github.com/user-attachments/assets/bf83c2aa-b7df-4051-a8a6-70486f5c3eb4" />
